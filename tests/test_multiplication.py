@@ -1,4 +1,4 @@
-import src.multiplication as multiplication
+from project_file_structure import multiplication
 
 def test_multiplication():
     # Assert
