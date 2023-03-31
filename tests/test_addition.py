@@ -1,4 +1,5 @@
-from src import addition
+from project_file_structure import addition
+
 def test_addition():
     # Assert
     assert addition.perform_operation(1, 1) == 2

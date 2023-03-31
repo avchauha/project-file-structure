@@ -1,5 +1,4 @@
-import src.addition as addition
-
+from project_file_structure import muplication
 def perform_operation(multiplier, multiplicand):
     result = 0
     for _ in range(multiplier):
